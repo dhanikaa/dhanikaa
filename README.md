@@ -5,7 +5,6 @@
 <p align="center">
 <a href="http://www.linkedin.com/in/dhanika-kumarasiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="gaveen buddhika" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dhanika.a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaveen_199" height="30" width="40" /></a>
- alt="gaveenbuddhika" height="30" width="40" /></a>
 <a href="https://medium.com/@dhanikaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gaveenbuddhika" height="30" width="40" /></a>
 </p> <p></p>
 
