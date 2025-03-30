@@ -39,6 +39,8 @@
   <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/448221/jenkins.svg" alt="Jenkins" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="NGINX" width="40" height="40"/> 
 </p>
