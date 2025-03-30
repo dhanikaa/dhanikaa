@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhanika Kumarasiri</h1>
-<h3 align="center">Final Year Software Engineering Student | DevOps & Cloud Enthusiast | Problem Solver</h3>
+<h3 align="center">Intern DevOps Engineer at H2O.ai | Final Year Software Engineering Student | DevOps & Cloud Enthusiast</h3>
 
 <p align="center">
 🚀 Passionate about leveraging technology to build scalable, efficient, and innovative solutions.<br>
-💻 Skilled in DevOps, Cloud Computing, and Full-Stack Development.<br>
+💻 Skilled in DevOps, Cloud Computing, and Automation.<br>
 📚 Continuously learning and sharing insights through blog articles and open-source projects.<br>
 </p>
 
@@ -44,36 +44,16 @@
   <img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="NGINX" width="40" height="40"/> 
 </p>
 
-<h3 align="center">💻 Development & Tools</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-</p>   
-
-<h3 align="center">🎨 UI/UX & Design</h3>
-
-<p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/> 
-</p>
-
-<hr>
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanikaa&show_icons=true&locale=en&layout=compact&hide_title=true" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanikaa&show_icons=true&locale=en&layout=compact&hide_title=true&bg_color=transparent&text_color=000000" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanikaa&show_icons=true&locale=en&hide_title=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanikaa&show_icons=true&locale=en&hide_title=true&bg_color=transparent&text_color=000000" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=dhanikaa&theme=default&hide_title=true" alt="GitHub Streak"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=dhanikaa&theme=default&hide_title=true&background=transparent&border=transparent" alt="GitHub Streak"/>
 </p>
