@@ -47,7 +47,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanikaa&show_icons=true&locale=en&layout=compact&hide_title=true&bg_color=transparent&text_color=ffffff" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanikaa&show_icons=true&locale=en&layout=compact&hide_title=true" alt="Top Languages" />
 </p>
 
 <p align="center">
