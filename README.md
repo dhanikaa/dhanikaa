@@ -67,13 +67,13 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanikaa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanikaa&show_icons=true&locale=en&layout=compact&hide_title=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanikaa&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanikaa&show_icons=true&locale=en&hide_title=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=dhanikaa&theme=default" alt="GitHub Streak"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=dhanikaa&theme=default&hide_title=true" alt="GitHub Streak"/>
 </p>
